@@ -1,0 +1,9 @@
+torch
+transformers
+datasets
+accelerate
+rouge_score
+sentencepiece
+matplotlib
+seaborn
+numpy
