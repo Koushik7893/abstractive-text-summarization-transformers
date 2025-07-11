@@ -65,7 +65,7 @@ pip install -r requirements.txt
 ## ✍️ Author
 
 **Koushik Reddy**
-🔗 [Hugging Face](https://huggingface.co/Koushim) | [LinkedIn](https://www.linkedin.com/in/koushik-reddy-k-790938257)
+🔗 [Hugging Face](https://huggingface.co/Koushim) 
 
 ---
 
